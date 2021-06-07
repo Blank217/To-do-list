@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "id": "3",
+      "text": "Food shopping",
+      "day": "March 7th at 2:00pm",
+      "reminder": false,
+      "editing": false,
+      "completed": false
+    },
+    {
+      "text": "go to the cinema",
+      "day": "March 7th at 1.30pm",
+      "reminder": false,
+      "id": "ay_LuHu"
+    },
+    {
+      "text": "Meeting with boss",
+      "day": "May 23th at 9.30am",
+      "reminder": true,
+      "id": "l1bd2oA"
+    },
+    {
+      "text": "Doctors appointment",
+      "day": "April 15th at 8.00am",
+      "reminder": true,
+      "id": "5in4PWB"
+    }
+  ]
+}
