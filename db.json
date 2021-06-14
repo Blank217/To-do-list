@@ -6,7 +6,8 @@
       "day": "March 7th at 2:00pm",
       "reminder": false,
       "editing": false,
-      "completed": false
+      "completed": false,
+      "deleted": false
     },
     {
       "text": "go to the cinema",
